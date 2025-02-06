@@ -2,7 +2,7 @@
 
 Project structure
 
-NOte : This is a condenced, dynamic performance report that utilises ' SWITCH ' measures and conditional formating
+Note : This is a condenced, dynamic performance report that utilises ' SWITCH ' measures and conditional formating
 
 Data | Power query and virtual tables |
 Model | Measures and Calculated Cloumns |
